@@ -21,7 +21,7 @@ open folder Drowsiness_System_Project251_Mililani_Seleka.py run using F5 or run
 ```
 
 ## Author(Developer) 
-Mililani Seleka
+Mililani Rakhetsi 
 
 ## License
 This project is licensed under DDsystem Project  - see the [LICENSE] (LICENSE) file for details.
